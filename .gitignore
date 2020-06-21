@@ -5,3 +5,4 @@
 /sasbeat
 /sasbeat.test
 *.pyc
+/logs
